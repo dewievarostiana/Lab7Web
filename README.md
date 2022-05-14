@@ -1,8 +1,8 @@
 # Lab7Web
 PHP
 
-###### Nama : Fara Deviana
-###### NIM : 312010407
+###### Nama : Evarostiana Dewi
+###### NIM : 312010295
 ###### Kelas : TI.A.2
 
 ## Tugas PHP
